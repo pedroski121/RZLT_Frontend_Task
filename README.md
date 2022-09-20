@@ -11,7 +11,7 @@
        <li>Navigate to your browser</li>
        <li>Go to <br>
               http://localhost:3000 <br>
-              You should be automatically be redirected to the search page</li>
+              You should automatically be redirected to the search page</li>
        <li>Type the github username you wish to find</li>
        <li>In the card below, some of the details of the user should pop up within a few seconds depending on your internet speed</li>
        <li>Navigate to the history page</li>
