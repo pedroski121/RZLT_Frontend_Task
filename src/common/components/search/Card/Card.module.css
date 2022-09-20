@@ -1,0 +1,40 @@
+.card {
+    height: 600px;
+}
+
+.card_image_container{
+    background-color: #212529;
+    height: 40%;
+    border-radius: 40px 40px 0px 0px;
+    box-shadow: 1px 10px 20px grey;
+}
+.card_image {
+    height: 200px;    
+    width: 200px;
+    background-color: beige;
+    border-radius: 100%;
+}
+.card_image img {
+    border-radius: 100%;
+}
+
+.card_details_container {
+    color: black;
+    background-color: white;
+    height: 50%;
+    box-shadow: 1px 10px 20px grey;
+    overflow-y: scroll;
+}
+
+.card_email {
+    color:grey
+}
+
+.card_bio {
+    font-style: italic;
+    padding: 10px;
+}
+
+
+
+
