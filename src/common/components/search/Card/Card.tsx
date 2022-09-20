@@ -39,13 +39,13 @@ export const Card:FC<GithubUserData> = ({name,avatar_url,email,bio, repos_url}) 
                     {repos_url ? <h2 className="d-flex align-self-start"> Repository </h2> : ''}
                     <div className="list-group w-auto">{
                       repositories.map(repository=> {
-                        return <a href={repository.html_url}  target="_blank" key={repository.id} className="list-group-item list-group-item-action mb-1 d-flex gap-3 py-3" aria-current="true">
+                        return <a href={repository?.html_url}  target="_blank" key={repository?.id} className="list-group-item list-group-item-action mb-1 d-flex gap-3 py-3" aria-current="true">
                         <div className="d-flex gap-2 w-100 justify-content-between">
                           <div>
-                            <h6 className="mb-0">{repository.name}</h6>
-                            <p className="mb-0 opacity-75">{repository.description}</p>
+                            <h6 className="mb-0">{repository?.name}</h6>
+                            <p className="mb-0 opacity-75">{repository?.description}</p>
                           </div>
-                          <small className="opacity-50 text-nowrap">{repository.pushed_at.split('T')[0]}</small>
+                          <small className="opacity-50 text-nowrap">{repository?.pushed_at?.split('T')[0]}</small>
                         </div>
                       </a>
                       })
