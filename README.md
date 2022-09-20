@@ -13,6 +13,6 @@
        <li>Type the github username you wish to find</li>
        <li>In the card below, some of the details of the user should pop up within a few seconds depending on your internet speed</li>
        <li>Navigate to the history page</li>
-       <li><br>Reload<br> it to see your entire search history</li>
+       <li>Reload it to see your entire search history</li>
 </ul>
 
