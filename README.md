@@ -7,7 +7,7 @@
        <li>Clone or Download the repository</li>
        <li>In the root directory run <br>npm run dev</li>
        <li>Navigate to your browser</li>
-       <li>6. Go to <br>
+       <li>Go to <br>
               http://localhost:3000 <br>
               You should be automatically be redirected to the search page</li>
        <li>Type the github username you wish to find</li>
