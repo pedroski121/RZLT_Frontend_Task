@@ -1,7 +1,7 @@
 <h1>RZLT_Frontend_Task</h1>
 <h2>This project consumes the public GitHub API in order to present the github data of a given user</h2> 
-1. Go to https://rzlt-frontend.vercel.app/ for a live preview<br>
-   To run in development mode<br>
+1. Go to https://rzlt-frontend.vercel.app/ for a live preview
+   To run in development mode
 2. Clone or Download the repository 
 3. In the root directory run ```npm run dev```
 4. Navigate to your browser
