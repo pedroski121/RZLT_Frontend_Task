@@ -5,7 +5,9 @@
        <li>Go to https://rzlt-frontend.vercel.app/ for a live preview</li>
        <li>To run in development mode</li>
        <li>Clone or Download the repository</li>
-       <li>In the root directory run <br>npm run dev</li>
+       <li>In the root directory run 
+      <br>npm install
+     <br>npm run dev</li>
        <li>Navigate to your browser</li>
        <li>Go to <br>
               http://localhost:3000 <br>
